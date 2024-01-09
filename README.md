@@ -3,6 +3,7 @@
 
 Api in Mvc architecture pattern
 
+PostMan Documentation Api Link - [Here](https://documenter.getpostman.com/view/26905398/2s9YsKfrhq)
 
 ## Backend Architecture Design
 
